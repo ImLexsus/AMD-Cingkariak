@@ -16,6 +16,10 @@ To process millions of incoming data streams instantaneously without lagging, IN
 * **Fireworks AI Platform:** Drives ultra-fast, low-latency LLM inference pipelines.
 * **Llama 3.1 8B Instruct:** Instantly dissects telemetry failure packages during critical anomalies and automatically generates enterprise-grade Emergency Action Protocols for ground crews.
 * **Frontend Dashboard:** Built with Python and Streamlit for dynamic, real-time data visualization.
+  
+### 🖥️ AMD Infrastructure Deployment Verification
+![AMD Compute Verification](image_83ec6f.jpg)
+*Figure: Successful backend initialization and connectivity validation running inside the AMD Radeon Global Cloud environment.*
 
 ## 📦 Getting Started (Local Development)
 
